@@ -1,0 +1,5 @@
+discord.py==2.3.2
+gtts==2.5.1
+aiohttp==3.9.3
+asyncio==3.4.3
+random2==1.0.1
